@@ -1,0 +1,19 @@
+{
+  "name": "signalk-server-shutdown",
+  "version": "1.0.0",
+  "description": "Provides an API to shutdown the machine the server is running on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbender9/signalk-server-shutdown"
+  }
+}
